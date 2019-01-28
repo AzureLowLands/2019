@@ -11,7 +11,12 @@ Here you will find the materials of the 2019 edition of Azure Low Lands.
 **Rik Hepworth**
 
 [Presentation](https://github.com/rikhepworth/Presentations/blob/master/Azure%20Low%20Lands%20Governance.pptx)
- 
+
+## Building secure cloud applications with Azure Key Vault
+**[Tom Kerkhove](https://twitter.com/TomKerkhove)**
+
+[Presentation](https://www.slideshare.net/TomKerkhove/azure-low-lands-2019-building-secure-cloud-applications-with-azure-key-vault)
+
 ## Develop, Run and Deploy Serverless Microservices
 **Alex Mang**
 
