@@ -1,11 +1,6 @@
 # Azure Low Lands 2019
 
 Here you will find the materials of the 2019 edition of Azure Low Lands.
-
-## Container-based Docker Deployments in Azure Platform as a Service
-**Johan Biere and Bram Van Den Klinkenberg**
-
-[Presentation](https://github.com/AzureLowLands/2019/blob/master/Session-containers-Bram-Johan.pptx)
  
 ## Governance: The Forgotten Key to Managing Cloud
 **Rik Hepworth**
@@ -27,8 +22,18 @@ Here you will find the materials of the 2019 edition of Azure Low Lands.
 **Eldert Grootenboer**
 
 [Presentation](https://github.com/AzureLowLands/2019/blob/master/Cloud%20architecture%20recipes%20for%20the%20Enterprise%20-%20Azure%20Low%20Lands.pptx)
+
+## From One Release Per Quarter To 30 Times A Day
+**Marcel de Vries**
+
+[Presentation](https://github.com/AzureLowLands/2019/blob/master/From%20one%20release%20per%20quarter%20to%2030%20times%20a%20day.pdf)
  
 ## Azure Data Lake
 **Rick Van Den Bosch**
 
 [Presentation](https://github.com/AzureLowLands/2019/blob/master/An%20intro%20to%20Azure%20Data%20Lake.pptx)
+
+## Container-based Docker Deployments in Azure Platform as a Service
+**Johan Biere and Bram Van Den Klinkenberg**
+
+[Presentation](https://github.com/AzureLowLands/2019/blob/master/Session-containers-Bram-Johan.pptx)
