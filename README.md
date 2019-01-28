@@ -3,7 +3,7 @@
 Here you will find the materials of the 2019 edition of Azure Low Lands.
 
 ## Container-based Docker Deployments in Azure Platform as a Service
-### Johan Biere and Bram Van Den Klinkenberg
+**Johan Biere and Bram Van Den Klinkenberg**
 
 [Presentation](https://github.com/AzureLowLands/2019/blob/master/Session-containers-Bram-Johan.pptx)
  
