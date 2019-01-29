@@ -39,6 +39,12 @@ Here you will find the materials of the 2019 edition of Azure Low Lands.
 
 [Presentation](https://github.com/AzureLowLands/2019/blob/master/ALL_MM_Enter_the_Matrix.pptx)
 
+## The Future Of Azure PaaS
+
+### Magnus Mårtensson
+
+[Presentation](https://github.com/AzureLowLands/2019/blob/master/Future.of.Azure.PaaS_Magnus.Martensson.pdf)
+
 ## Azure Data Lake
 
 ### Rick Van Den Bosch
