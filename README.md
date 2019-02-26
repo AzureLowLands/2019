@@ -68,3 +68,9 @@ Here you will find the materials of the 2019 edition of Azure Low Lands.
 ### Johan Biere and Bram Van Den Klinkenberg
 
 [Presentation](https://github.com/AzureLowLands/2019/blob/master/Session-containers-Bram-Johan.pptx)
+
+## Azure Cosmos DB – The Swiss Army NoSQL Cloud Database
+
+### Steef-Jan Wiggers
+
+[Presentation](https://github.com/AzureLowLands/2019/blob/master/Azure%20Cosmos%20DB%20%E2%80%93%20The%20Swiss%20Army%20NoSQL%20Cloud%20Database%20-%20Lowlands.pdf)
