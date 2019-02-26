@@ -45,6 +45,18 @@ Here you will find the materials of the 2019 edition of Azure Low Lands.
 
 [Presentation](https://github.com/AzureLowLands/2019/blob/master/Future.of.Azure.PaaS_Magnus.Martensson.pdf)
 
+## Monitoring real life Azure applications when to use what and why
+
+### Karl Ots
+
+[Presentation](https://www.slideshare.net/karlots/azure-low-lands-2018-monitoring-real-life-azure-applications-when-to-use-what-and-why)
+
+## Azure in the Real World 
+
+### Dennis Mulder
+
+[Presentation](https://github.com/AzureLowLands/2019/blob/master/20190125%20-%20Azure%20Lowlands%20Keynote%20-%20Azure%20in%20the%20Real%20World%20-%20Dennis%20Mulder.pptx)
+
 ## Azure Data Lake
 
 ### Rick Van Den Bosch
